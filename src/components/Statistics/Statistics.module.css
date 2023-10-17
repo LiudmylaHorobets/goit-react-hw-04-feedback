@@ -1,0 +1,7 @@
+.list {
+  list-style: none;
+  color: rgb(47, 47, 47);
+}
+.list li:not(:last-child) {
+  margin-bottom: 5px;
+}

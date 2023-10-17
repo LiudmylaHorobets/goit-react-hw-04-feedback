@@ -1,0 +1,13 @@
+.section {
+  width: 500px;
+  margin: 0 auto 20px auto;
+  padding: 20px;
+  border: 1px solid pink;
+}
+
+.sectionTitle {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: palevioletred;
+}

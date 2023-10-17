@@ -1,0 +1,23 @@
+.feedbackOptions {
+  display: flex;
+  justify-content: center;
+  background-color: #ffdef3;
+  padding: 20px;
+}
+
+.feedbackButton {
+  margin: 0 10px;
+  padding: 8px 16px;
+  background-color: rgb(255, 255, 255);
+  color: gray;
+  font-weight: bold;
+
+  border: none;
+  cursor: pointer;
+}
+
+.feedbackButton:hover,
+.feedbackButton:focus {
+  background-color: purple;
+  color: black;
+}
